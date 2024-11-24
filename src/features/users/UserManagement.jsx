@@ -78,7 +78,7 @@ export default function UserManagement() {
       </div>
 
       <form onSubmit={handleSubmit} className="mb-4">
-        <p>Add New User:</p>
+        <p>Add New User/Admin:</p>
         <div className="row">
           <div className="col-md-3 mb-2">
             <input
